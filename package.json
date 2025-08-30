@@ -1,13 +1,18 @@
 {
   "name": "encodrive",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple client for encrypted file upload and retrieval.",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "node test.js"
   },
-  "keywords": ["file-upload", "encryption", "client", "drive"],
+  "keywords": [
+    "file-upload",
+    "encryption",
+    "client",
+    "drive"
+  ],
   "author": "Ansh Vohra",
   "license": "MIT",
   "dependencies": {
