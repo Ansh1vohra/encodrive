@@ -1,6 +1,6 @@
 {
   "name": "encodrive",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple client for encrypted file upload and retrieval.",
   "main": "index.js",
   "type": "module",
