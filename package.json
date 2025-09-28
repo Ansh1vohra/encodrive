@@ -16,7 +16,9 @@
   "author": "Ansh Vohra",
   "license": "MIT",
   "dependencies": {
+    "argon2-browser": "^1.18.0",
     "axios": "^1.7.0",
-    "crypto-js": "^4.2.0"
+    "crypto-js": "^4.2.0",
+    "tweetnacl": "^1.0.3"
   }
 }
