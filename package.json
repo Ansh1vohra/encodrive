@@ -17,8 +17,9 @@
   "license": "MIT",
   "dependencies": {
     "argon2-browser": "^1.18.0",
-    "axios": "^1.7.0",
+    "axios": "^1.12.2",
     "crypto-js": "^4.2.0",
+    "scrypt-js": "^3.0.1",
     "tweetnacl": "^1.0.3"
   }
 }
